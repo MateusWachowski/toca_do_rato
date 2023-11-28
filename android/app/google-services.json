@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888329283408",
+    "project_id": "toca-do-rato",
+    "storage_bucket": "toca-do-rato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888329283408:android:9a1ce2d14690748d6bae55",
+        "android_client_info": {
+          "package_name": "com.wachowski.toca_do_rato_jogos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcn01ujg2F1iMP_MV32k-xLWRz0iwSRI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

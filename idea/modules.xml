@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/toca_do_rato_jogos.iml" filepath="$PROJECT_DIR$/toca_do_rato_jogos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/toca_do_rato_jogos_android.iml" filepath="$PROJECT_DIR$/android/toca_do_rato_jogos_android.iml" />
+    </modules>
+  </component>
+</project>
